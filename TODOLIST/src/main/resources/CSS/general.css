@@ -1,0 +1,33 @@
+#titleLabel{
+    -fx-font-size : 30px;
+    -fx-font-weight : bold;
+
+}
+
+.label{
+    -fx-font-size : 20px;
+}
+
+.button{
+    -fx-background-color : darkgrey;
+    -fx-font-size:13px;
+}
+
+#sentenceLabel{
+    -fx-font-size : 15px;
+}
+
+#personLabel{
+    -fx-font-size : 18px;
+}
+
+.button:hover{
+    -fx-background-color : lightgrey;
+    -fx-border-color : darkgrey;
+    -fx-font-size:13px;
+}
+
+#warningMessage{
+    -fx-font-size : 15px;
+    -fx-text-fill : darkred;
+}
